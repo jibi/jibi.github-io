@@ -1,0 +1,29 @@
+{
+  "name": "mono",
+  "displayName": "Mono Bold",
+  "type": "light",
+  "colors": {
+    "editor.foreground": "#111111",
+    "editor.background": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "keyword",
+        "storage",
+        "constant",
+        "string",
+        "number",
+        "variable",
+        "entity.name.function",
+        "entity.name.type",
+        "support",
+        "punctuation",
+        "meta"
+      ],
+      "settings": {
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}
